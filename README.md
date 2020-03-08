@@ -1,2 +1,11 @@
 # Hostel-Management-System
-CLI based Hostel Management System in java
+
+Terminal/CMD based System
+
+compile : javac -d . *.java
+
+run : java main.Hsm
+
+username : vrajesh
+
+password : vrajesh
