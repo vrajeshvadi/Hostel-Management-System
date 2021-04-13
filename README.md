@@ -9,3 +9,5 @@ run : java main.Hsm
 username : vrajesh
 
 password : vrajesh
+
+store student details in text file
